@@ -6,8 +6,12 @@
           <option name="url" value="https://github.com/amlbl/Bel-Abbas_Amelle_TP_Final.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/amlbl/TPfinal.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\belab\AndroidStudioProjects" />
+    <option name="cloneParentDir" value="C:\Users\belab\AndroidStudioProjects\TPfinal" />
   </component>
 </application>
